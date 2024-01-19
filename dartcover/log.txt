@@ -1,3 +1,5 @@
 dimentions:
 measured outside radius: 225 mm => diameter = 450mm
 Should be 451mm technically -> let's aim for 455mm with buffer
+
+panels zijn 600 x 300 mm -> leaves a buffer of 145 mm -> 
